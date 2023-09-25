@@ -1,6 +1,6 @@
   // Int main file, creating a video game management system using nested structs, arrays, and multiple files
 
-  #include "pa07.h"
+  #include "VGMS.h"
 
   #include <iostream>
   #include <string>
